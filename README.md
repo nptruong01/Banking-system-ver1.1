@@ -86,3 +86,9 @@
 <div align="center">
   <img src="https://github.com/nptruong01/bank/assets/113322089/eca247ee-fa09-4379-b159-867182e3a9d2" alt="Menu" width="450">
 </div>
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+We welcome your feedback and contributions to enhance and optimize this banking system further.
