@@ -1,4 +1,4 @@
-# Banking Transaction Management System Version 1.1.
+# Banking Transaction Management System Version 1.1
 
 <div align="center">
   <img src="https://github.com/nptruong01/bank/assets/113322089/6d11ec97-3e35-4787-8df3-b22e2fc035f1" alt="Home Page" width="450">
